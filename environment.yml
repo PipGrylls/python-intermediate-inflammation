@@ -4,4 +4,7 @@ channels:
 dependencies:
   - python=3.9
   - numpy
+  - pytest
+  - conda-build
+  - pytest-cov
 prefix: /usr/local/Caskroom/miniconda/base/envs/IntSoftCarp
