@@ -1,0 +1,7 @@
+name: IntSoftCarp
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+prefix: /usr/local/Caskroom/miniconda/base/envs/IntSoftCarp
