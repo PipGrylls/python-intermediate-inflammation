@@ -29,7 +29,6 @@ def test_daily_min(test, expected):
     npt.assert_array_equal(np.array(expected), daily_min(test))
 
 
-
 @pytest.mark.parametrize(
     "test, expected",
     [
