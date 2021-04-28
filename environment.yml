@@ -2,7 +2,7 @@ name: IntSoftCarp
 channels:
   - defaults
 dependencies:
-  - python=3.9
+  - python
   - numpy
   - pytest
   - conda-build
